@@ -23,7 +23,7 @@ We'll use Facebook messager to communicate about any problems or difficulties, a
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-
+In the case that any difficulties do arise, we will offer assistance and possibly reassign tasks to ensure that deadlines are met. We will also meet and begin working on tasks well before assignments are due so that we do not run out of time before the deadline.
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
