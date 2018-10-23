@@ -27,5 +27,5 @@ In the case that any difficulties do arise, we will offer assistance and possibl
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
-
+Help your team members when they are struggling to complete the tasks assigned to them.
 
