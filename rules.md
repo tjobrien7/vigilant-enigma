@@ -15,7 +15,7 @@ each team member is able to work on parts of the program where they feel they wo
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-
+We will be in communication about where we are at over Facebook Messenger and set deadlines for tasks.
 
 ## How will will communicate difficulties with a task assigned to us
 
