@@ -43,22 +43,16 @@ FoodFinder 1000
 
 List of places that sell the desired food item and price
 
-Ex:
-
-McDonalds     McDouble       $1.69
-
-McDonalds     Big Mac        $4.99
-
-Badger Pub    Bucky Burger   $2.99
-
-Burger King   Whopper        $3.69
-
-Culver's      ButterBurger   $4.79
-
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
+The food item/type the customer wants to find a restauarant and price for.
+
+Ex: 
+
+burger
+pizza
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
