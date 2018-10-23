@@ -10,7 +10,8 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+We will try to collaborate and work at the same time if possible but apart from that we will distribute the work such that
+each team member is able to work on parts of the program where they feel they would learn the most. 
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
