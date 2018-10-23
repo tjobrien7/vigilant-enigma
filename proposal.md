@@ -42,12 +42,17 @@ FoodFinder 1000
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
 List of places that sell the desired food item and price
+
 Ex:
 
 McDonalds     McDouble       $1.69
+
 McDonalds     Big Mac        $4.99
+
 Badger Pub    Bucky Burger   $2.99
+
 Burger King   Whopper        $3.69
+
 Culver's      ButterBurger   $4.79
 
 
