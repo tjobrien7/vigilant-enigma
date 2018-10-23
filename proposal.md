@@ -36,6 +36,7 @@ Describe at a high level a program that could solve that problem.
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
+FoodFinder 1000
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
