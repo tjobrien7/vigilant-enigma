@@ -19,7 +19,7 @@ We will be in communication about where we are at over Facebook Messenger and se
 
 ## How will will communicate difficulties with a task assigned to us
 
-
+We'll use Facebook messager to communicate about any problems or difficulties, and ask for help if we need it. We can also meet in person if that's necessary to solve the problem.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
