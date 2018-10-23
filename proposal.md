@@ -41,7 +41,7 @@ FoodFinder 1000
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-List of food items with a price within $1 of the input
+List of places that sell the desired food item
 
 
 
