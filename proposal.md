@@ -52,6 +52,7 @@ The food item/type the customer wants to find a restauarant and price for.
 Ex: 
 
 burger
+
 pizza
 
 
