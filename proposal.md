@@ -32,6 +32,8 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
+We are designing a program that will take input (ie the food that a user is hungry for) and output a list of places where that item may be sourced and the price of the item at that location.
+
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
