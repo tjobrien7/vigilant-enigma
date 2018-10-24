@@ -13,8 +13,11 @@
        * GitHub username 4: tjobrien7  name 4: Trace O'Brien
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
+   
+   7:12:57 PM 10/23/2018
    * How long did it take your team to complete this exercise? 
-
+   
+   1 hour 15 minutes
 ## Table of Contents
 
 1. README.md - overview of files in this repository (this file)
