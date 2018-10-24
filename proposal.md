@@ -80,8 +80,11 @@ The program will prompt the user to enter the food item that they would like to 
 
 
 Name each interface or class and briefly describe its function or purpose.
+
 FoodNode: contains food name, restaurant, and price
+
 FoodTable: hash table holding arraylists hashed by food type
+
 Main: main controller
 
 ## Edit and Submit this file and any figures referenced by this document.
