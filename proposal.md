@@ -30,6 +30,9 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 ## Problem Description
 
 Briefly describe a problem that your team would like to solve.  
+
+When users are hungry for a certain food, they sometimes have trouble locating a source for that food and they starve. Our program will prevent users from going hungry and make the world a better place.
+
 Describe at a high level a program that could solve that problem.
 
 We are designing a program that will take input (ie the food that a user is hungry for) and output a list of places where that item may be sourced and the price of the item at that location.
