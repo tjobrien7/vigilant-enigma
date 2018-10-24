@@ -79,9 +79,10 @@ The program will prompt the user to enter the food item that they would like to 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
 
-
 Name each interface or class and briefly describe its function or purpose.
-
+FoodNode: contains food name, restaurant, and price
+FoodTable: hash table holding arraylists hashed by food type
+Main: main controller
 
 ## Edit and Submit this file and any figures referenced by this document.
 
