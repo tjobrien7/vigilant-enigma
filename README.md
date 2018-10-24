@@ -11,7 +11,6 @@
        * GitHub username 2: apurohit2  name 2: Anay Purohit
        * GitHub username 3: ewatson5   name 3: Liz Watson
        * GitHub username 4: tjobrien7  name 4: Trace O'Brien
-       * GitHub username 5:       name 5:
    * When did you complete this exercise? 
    
    7:12:57 PM 10/23/2018
