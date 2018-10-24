@@ -1,4 +1,4 @@
-# xteam-exercise-2: https://github.com/<tjobrien7>/<vigilant-enigma>
+# xteam-exercise-2: https://github.com/tjobrien7/vigilant-enigma
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
