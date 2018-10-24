@@ -7,8 +7,8 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1: ebwilt name 1: Elias Barrett-Wilt
-       * GitHub username 2:       name 2:
+       * GitHub username 1: ebwilt     name 1: Elias Barrett-Wilt
+       * GitHub username 2: apurohit2  name 2: Anay Purohit
        * GitHub username 3:       name 3:
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
