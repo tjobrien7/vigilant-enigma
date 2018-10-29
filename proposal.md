@@ -1,4 +1,4 @@
-# FoodFinder 1000
+# X-Team 66 FoodFinder 1000
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
