@@ -31,11 +31,11 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 Briefly describe a problem that your team would like to solve.  
 
-When users are hungry for a certain food, they sometimes have trouble locating a source for that food and they starve. Our program will prevent users from going hungry and make the world a better place.
+When users are hungry for a certain food, they sometimes have trouble locating a source for that food and they starve. Our program will prevent users in Madison from going hungry and make the world a better place.
 
 Describe at a high level a program that could solve that problem.
 
-We are designing a program that will take input (ie the food that a user is hungry for) and output a list of places where that item may be sourced and the price of the item at that location.
+We are designing a program that will take input (ie the food that a user is hungry for) and output a list of places in Madison where that item may be sourced and the price of the item at that location.
 
 ## Questions to answer for Exercise #2
 
@@ -46,7 +46,7 @@ FoodFinder 1000
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-List of places that sell the desired food item and price
+List of places that sell the desired food item and price in madison.
 
 Ex:
 
@@ -64,7 +64,7 @@ Culver's      ButterBurger   $4.79
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-The food item/type the customer wants to find a restauarant and price for. 
+The input data would be a food item/type the customer wants to find a restauarant and price for in Madison. 
 
 Ex:  
  
@@ -72,11 +72,22 @@ burger
 
 pizza 
 
+The data required to build this program would be a list consisting of places in Madison selling food items along with their prices.
+The example includes the data format for "pizza" foodtype.
 
+Ex:
+
+Ian's Pizza   MacnCheese Pizza     $3.00
+
+Papa Johns    Gluten Free Pizza    $10.99
+
+Strada        Pesto Pie Pizza      $8.00
+
+Rocky Rococo  Pepperoni Slice      $3.50
+
+Toppers       Two Topping Pizza    $9.99
  
  
-
-
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
 The program will prompt the user to enter the food item that they would like to find. It will return a text menu with a list of resturants, food name, and price.
@@ -90,7 +101,7 @@ FoodNode: contains food name, restaurant, and price
 
 FoodTable: hash table holding arraylists hashed by type of food contained in the array
 
-Main: main controller
+Main: main controller to use/interpret input data and also generate required output for the user
 
 ## Edit and Submit this file and any figures referenced by this document.
 
